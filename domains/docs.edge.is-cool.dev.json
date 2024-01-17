@@ -1,0 +1,14 @@
+{
+    "domain": "is-cool.dev",
+    "subdomain": "docs.edge",
+
+    "owner": {
+        "email": "zaragozamendozaisaac@outlook.es"
+    },
+
+    "record": {
+        "TXT": ["_vercel"]
+    },
+
+    "proxied": undefined
+}
